@@ -8,12 +8,18 @@
 
 </div>
 
-Soy **Edwar Granados** (`@SirEdward97`), de Colombia 🇨🇴. Tecnólogo en Desarrollo  de Software aplicado al Front-End y  apasionado por unir ingeniería moderna con experiencias interactivas 3D en tiempo real.
+Soy **Edwar Granados** (`@SirEdward97`), de Colombia 🇨🇴. Tecnólogo en Desarrollo de Software aplicado al Front-End y apasionado por unir ingeniería moderna con experiencias interactivas 3D en tiempo real.
 
 - 🚀 **Construyendo ahora:** Experiencias interactivas en **Three.js / WebGL 2.0** (*Oracle Red Bull Racing RB22*, *Portafolio Galaxia 3D*) y **SIGIF**
-- 🌍 **Meta:** crear productos globales de alto impacto en **Full-Stack, Web 3D e IA**
+- 🌍 **Meta:** crear productos globales de alto impacto en **Diseño Web, UI/UX, Web 3D e IA**
 - 🤝 **Abierto a:** oportunidades remotas, colaboraciones y proyectos freelance
 - 💬 ¿Tienes alguna pregunta o idea? ¡No dudes en escribirme!
+
+<p align="center">
+  <a href="https://portafolio97.vercel.app/" target="_blank">
+    <img src="assets/portfolio-cta.svg" alt="Explora mi Portafolio de Servicios 3D Interactivo — portafolio97.vercel.app" width="100%">
+  </a>
+</p>
 
 <div align="center">
 
@@ -31,6 +37,7 @@ Soy **Edwar Granados** (`@SirEdward97`), de Colombia 🇨🇴. Tecnólogo en Des
 
   ## Contacto
 
+  [![Portafolio 3D](https://img.shields.io/badge/Portafolio_3D-00f5c4?style=for-the-badge&logo=vercel&logoColor=04120f)](https://portafolio97.vercel.app/)
   [![Gmail](https://img.shields.io/badge/Gmail-008b8b?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:edwarpipita@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/Linkedin-008b8b?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/)
   [![Instagram](https://img.shields.io/badge/Instagram-008b8b?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/)
