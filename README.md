@@ -4,20 +4,20 @@
 
 <div align="center">
 
-  ## About Me
+  ## Sobre Mí
 
 </div>
 
-I'm **Edwar Granados** (`@SirEdward97`), from Colombia 🇨🇴. I'm a Front-End Technologist & Full-Stack Developer passionate about combining modern software engineering with real-time 3D web experiences.
+Soy **Edwar Granados** (`@SirEdward97`), de Colombia 🇨🇴. Tecnólogo en Desarrollo  de Software aplicado al Front-End y  apasionado por unir ingeniería moderna con experiencias interactivas 3D en tiempo real.
 
-- 🚀 **Building now:** Interactive **Three.js / WebGL 2.0** showcases (*Oracle Red Bull Racing RB22*, *3D Galaxy Portfolio*) & **SIGIF**
-- 🌍 **Goal:** to build high-impact **Full-Stack, 3D Web & AI** products globally
-- 🤝 **Open to:** remote roles, collaborations, and freelance work
-- 💬 Any questions? Feel free to reach out!
+- 🚀 **Construyendo ahora:** Experiencias interactivas en **Three.js / WebGL 2.0** (*Oracle Red Bull Racing RB22*, *Portafolio Galaxia 3D*) y **SIGIF**
+- 🌍 **Meta:** crear productos globales de alto impacto en **Full-Stack, Web 3D e IA**
+- 🤝 **Abierto a:** oportunidades remotas, colaboraciones y proyectos freelance
+- 💬 ¿Tienes alguna pregunta o idea? ¡No dudes en escribirme!
 
 <div align="center">
 
-  ## Languages and activity
+  ## Lenguajes y actividad
 
 </div>
 
@@ -29,7 +29,7 @@ I'm **Edwar Granados** (`@SirEdward97`), from Colombia 🇨🇴. I'm a Front-End
 
 <div align="center">
 
-  ## Contacts
+  ## Contacto
 
   [![Gmail](https://img.shields.io/badge/Gmail-008b8b?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:edwarpipita@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/Linkedin-008b8b?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/)
