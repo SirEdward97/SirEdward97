@@ -37,7 +37,7 @@ Soy **Edwar Granados** (`@SirEdward97`), de Colombia 🇨🇴. Tecnólogo en Des
 
   ## Contacto
 
-  [![Portafolio 3D](https://img.shields.io/badge/Portafolio_3D-00f5c4?style=for-the-badge&logo=vercel&logoColor=04120f)](https://portafolio97.vercel.app/)
+  [![Portafolio 3D](https://img.shields.io/badge/Portafolio_3D-00f5c4?style=for-the-badge&logo=vercel&logoColor=#859FD3)](https://portafolio97.vercel.app/)
   [![Gmail](https://img.shields.io/badge/Gmail-008b8b?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:edwarpipita@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/Linkedin-008b8b?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/)
   [![Instagram](https://img.shields.io/badge/Instagram-008b8b?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/)
