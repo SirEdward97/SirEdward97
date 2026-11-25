@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Edwar Granados (@SirEdward97) — Dev Fullstack, Front-end & Web 3D — Colombia" width="100%">
+  <img src="assets/banner.svg" alt="Edwar Granados (@SirEdward97) — Diseño Web y UI/UX, Front-end & Web 3D — Colombia" width="100%">
 </p>
 
 <div align="center">
