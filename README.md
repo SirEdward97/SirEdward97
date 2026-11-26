@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Edwar Granados (@SirEdward97) — Diseño Web y UI/UX, Front-end & Web 3D — Colombia" width="100%">
+  <picture>
+    <source type="image/webp" srcset="assets/banner.webp">
+    <img src="assets/banner.gif" alt="Edwar Granados (@SirEdward97) — Diseño Web y UI/UX, Front-end & Web 3D — Colombia" width="100%">
+  </picture>
 </p>
 
 <div align="center">
